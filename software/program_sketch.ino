@@ -1,5 +1,5 @@
 // =========================================================================
-// CLAW-D MASCOT: MAIN EXECUTION SCRIPT
+// CLAWDY MASCOT: MAIN EXECUTION SCRIPT
 // Hardware: ESP32 (Optimized for XIAO ESP32-C5) & Dual 0.96" I2C OLEDs
 // =========================================================================
 
